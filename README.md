@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arbin Sigdel</h1>
 <h3 align="center">A passionate stack developer from Kathmandu</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arbinsigdel12&label=Profile%20views&color=0e75b6&style=flat" alt="arbinsigdel12" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbinsigdel12" alt="arbinsigdel12" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/arbinsigdel12](https://github.com/arbinsigdel12)
