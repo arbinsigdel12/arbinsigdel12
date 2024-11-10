@@ -5,8 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbinsigdel12" alt="arbinsigdel12" /></a> </p>
 
-- Hi I'm currently learning **JavaScript,C# ,Reactjs**
-
 - 👨‍💻 All of my projects are available at [https://github.com/arbinsigdel12](https://github.com/arbinsigdel12)
 
 - 💬 Ask me about **Python , Machine Learning , Django ,Unity**
@@ -19,6 +17,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/arbin-sigdel-253320334/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arbin-sigdel-253320334/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/arbin.sigdel.9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/arbin.sigdel.9" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/bhujya_lover" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/bhujya_lover" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/@garpi7407" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@garpi7407" height="30" width="40" /></a>
+<a href="https://discord.gg/https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2FKpGE8HjF%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR1WpL9RDCXNfX-ob8oamH7ZRI2zaDvncjFIRIBFaIcES9JX2ZMDEnPjjcM_aem_VXW8FG_8CmlFQI-T27DMdQ&h=AT1L-qcIfMvZJfISFbqDumKvk-bFs8kf5V0YtYnNahzYq0I1bMRUKYMlk46pIrL366g-Bbm89lUNiB-0AG2hGA5PBubKq9nHc4g8wE9-7D2TVyj5RlyuQFwMnXPN-x2hguqlFQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://l.facebook.com/l.php?u=https%3A%2F%2Fdiscord.gg%2FKpGE8HjF%3Ffbclid%3DIwZXh0bgNhZW0CMTAAAR1WpL9RDCXNfX-ob8oamH7ZRI2zaDvncjFIRIBFaIcES9JX2ZMDEnPjjcM_aem_VXW8FG_8CmlFQI-T27DMdQ&h=AT1L-qcIfMvZJfISFbqDumKvk-bFs8kf5V0YtYnNahzYq0I1bMRUKYMlk46pIrL366g-Bbm89lUNiB-0AG2hGA5PBubKq9nHc4g8wE9-7D2TVyj5RlyuQFwMnXPN-x2hguqlFQ" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
